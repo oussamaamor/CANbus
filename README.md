@@ -6,7 +6,7 @@ This project demonstrates a simple implementation of a CAN bus system in C, show
 
 ## Project Structure
 
-- **main.c**: The main C source file containing the implementation of the CAN bus system.
+- **CAN.c**: The main C source file containing the implementation of the CAN bus system.
 
 ## Features
 
